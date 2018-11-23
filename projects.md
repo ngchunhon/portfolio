@@ -54,7 +54,7 @@ Summary:
 
 ## Mastermind 2P
 https://itunes.apple.com/us/app/mastermind-2p/id584703149?mt=8
-<br>
+
 Summary:
-Play mastermind with your friend.
+- Play mastermind with your friend.
 (Same trick as "Liars Dice")
