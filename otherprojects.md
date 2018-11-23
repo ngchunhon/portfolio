@@ -1,4 +1,4 @@
-# Some projects involved.
+# Other projects involved.
 
 ***
 
