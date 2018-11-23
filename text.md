@@ -1,5 +1,7 @@
 # Some projects involved.
 
+***
+
 # Mobile App Projects
 I wrote some of the app below and deployed it to App Store and Google Play.
 - Top View
@@ -56,5 +58,5 @@ I studied a few days because we also need a push notifications <br>
 in some android and iOS apps. <br>
 https://drive.google.com/open?id=0BzD5MKCASKLhcUd4TlJoYWo5VVU
 
-
+***
 
