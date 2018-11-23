@@ -4,6 +4,7 @@
 
 ## Hall Six
 https://itunes.apple.com/us/app/hall-six/id777801645?mt=8
+<br>
 Summary:
 - A social network platform
 - a web portal, and
@@ -26,6 +27,7 @@ Technical:
 
 ## Dance 2P
 https://itunes.apple.com/us/app/dance-2p/id646273343?mt=8
+<br>
 Summary:
 - learn how you "dance",
 and let other player challenge you.
@@ -42,6 +44,7 @@ Technical:
 
 ## Liars Dice
 https://itunes.apple.com/us/app/liars-multi/id580541003?mt=8
+<br>
 Summary:
 - Two players play drinking dice game with just one device!
 - When Player A check the dice,
@@ -53,6 +56,7 @@ in which both cannot see the opponent dice.
 
 ## Mastermind 2P
 https://itunes.apple.com/us/app/mastermind-2p/id584703149?mt=8
+<br>
 Summary:
 Play mastermind with your friend.
 (Same trick as "Liars Dice")
