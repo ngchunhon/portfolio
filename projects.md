@@ -4,20 +4,19 @@
 
 ## Hall Six
 https://itunes.apple.com/us/app/hall-six/id777801645?mt=8
-<br>
+
 Summary:
 - A social network platform
 - a web portal
 - an online shopping web
-<br>
+
 Feature:
-- Connect each other in terms of
-roommates, floormates and hallmates
+- Connect each other in terms of roommates, floormates and hallmates
 - Share photo
 - Share website
 - User Friendly interface
 - Simple address system for easy memorize
-<br>
+
 Technical:
 - Http Asynchronous Service
 - Php server
