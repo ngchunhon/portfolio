@@ -7,8 +7,9 @@ https://itunes.apple.com/us/app/hall-six/id777801645?mt=8
 <br>
 Summary:
 - A social network platform
-- a web portal, and
+- a web portal
 - an online shopping web
+<br>
 Feature:
 - Connect each other in terms of
 roommates, floormates and hallmates
@@ -16,6 +17,7 @@ roommates, floormates and hallmates
 - Share website
 - User Friendly interface
 - Simple address system for easy memorize
+<br>
 Technical:
 - Http Asynchronous Service
 - Php server
@@ -31,6 +33,7 @@ https://itunes.apple.com/us/app/dance-2p/id646273343?mt=8
 Summary:
 - learn how you "dance",
 and let other player challenge you.
+<br>
 Technical:
 - Music library
 - Sound Intensity checker
