@@ -28,11 +28,10 @@ Technical:
 
 ## Dance 2P
 https://itunes.apple.com/us/app/dance-2p/id646273343?mt=8
-<br>
+
 Summary:
-- learn how you "dance",
-and let other player challenge you.
-<br>
+- learn how you "dance" and let other player challenge you.
+
 Technical:
 - Music library
 - Sound Intensity checker
@@ -46,14 +45,11 @@ Technical:
 
 ## Liars Dice
 https://itunes.apple.com/us/app/liars-multi/id580541003?mt=8
-<br>
+
 Summary:
 - Two players play drinking dice game with just one device!
-- When Player A check the dice,
-Player B cannot be seen,
-and vice versa.
-- Of course, two players can check the dice at the same time,
-in which both cannot see the opponent dice.
+- When Player A check the dice, Player B cannot be seen, and vice versa.
+- Of course, two players can check the dice at the same time, in which both cannot see the opponent dice.
 
 
 ## Mastermind 2P
